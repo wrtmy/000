@@ -1,0 +1,4 @@
+name: CI # workflow名，会显示在action界面中
+
+on: # 定义触发器
+	workflow_dispatch: # 手动触发
